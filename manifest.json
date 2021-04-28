@@ -5,6 +5,6 @@
   "issue_tracker": "https://github.com/jagalindo/edistribucion/",
   "dependencies": [],
   "codeowners": ["@jagalindo", "@trocotronic"],
-  "requirements": ["bs4","requests"]
-
+  "requirements": ["bs4","requests"],
+  "version": "1.0.0"
 }
